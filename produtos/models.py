@@ -40,6 +40,7 @@ class Produto(models.Model):
             optimize = True,
             quality=50
         )
+        print("Imagem red")
 
       
 
